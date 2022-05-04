@@ -15,7 +15,7 @@
           <sld:MaxScaleDenominator>3000000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Interpolate">
                   <ogc:Function name="env">
@@ -57,7 +57,7 @@
           <sld:MaxScaleDenominator>50000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
@@ -112,7 +112,7 @@
           <sld:MaxScaleDenominator>200000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
@@ -152,7 +152,7 @@
           <sld:MaxScaleDenominator>50000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
@@ -199,7 +199,7 @@
           <sld:MaxScaleDenominator>200000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Interpolate">
@@ -240,7 +240,7 @@
           <sld:MaxScaleDenominator>100000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Interpolate">
@@ -277,7 +277,7 @@
           <sld:MaxScaleDenominator>100000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Interpolate">
@@ -518,7 +518,7 @@
           <sld:MaxScaleDenominator>200000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Interpolate">
                   <ogc:Function name="env">
@@ -559,7 +559,7 @@
           <sld:MaxScaleDenominator>100000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Interpolate">
                   <ogc:Function name="env">
@@ -608,7 +608,7 @@
           <sld:MaxScaleDenominator>50000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">2</sld:CssParameter>
@@ -654,7 +654,7 @@
           <sld:MaxScaleDenominator>100000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">2</sld:CssParameter>
@@ -688,7 +688,7 @@
           <sld:MaxScaleDenominator>100000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">2</sld:CssParameter>
               <sld:CssParameter name="stroke-dasharray">4.0 3.0</sld:CssParameter>
@@ -760,7 +760,7 @@
           <sld:MaxScaleDenominator>100000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-width">3.5</sld:CssParameter>
               <sld:CssParameter name="stroke-dasharray">4.0 2.0</sld:CssParameter>
             </sld:Stroke>
@@ -776,7 +776,7 @@
           <sld:MaxScaleDenominator>100000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">2.5</sld:CssParameter>
@@ -794,7 +794,7 @@
           <sld:MaxScaleDenominator>200000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">4.5</sld:CssParameter>
@@ -1906,7 +1906,7 @@
           <sld:MaxScaleDenominator>200000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Interpolate">
@@ -1947,7 +1947,7 @@
           <sld:MaxScaleDenominator>100000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Interpolate">
@@ -1984,7 +1984,7 @@
           <sld:MaxScaleDenominator>100000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Interpolate">
@@ -2027,7 +2027,7 @@
           <sld:MaxScaleDenominator>200000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
@@ -2064,7 +2064,7 @@
           <sld:MaxScaleDenominator>100000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
@@ -2111,7 +2111,7 @@
           <sld:MaxScaleDenominator>100000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">4</sld:CssParameter>

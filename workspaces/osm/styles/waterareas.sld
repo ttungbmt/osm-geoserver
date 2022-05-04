@@ -60,10 +60,10 @@
           <sld:MaxScaleDenominator>1500000.0</sld:MaxScaleDenominator>
           <sld:PolygonSymbolizer>
             <sld:Fill>
-              <sld:CssParameter name="fill">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="fill">#75cff0</sld:CssParameter>
             </sld:Fill>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-width">0.5</sld:CssParameter>
             </sld:Stroke>
           </sld:PolygonSymbolizer>
@@ -80,10 +80,10 @@
           <sld:MaxScaleDenominator>6000000.0</sld:MaxScaleDenominator>
           <sld:PolygonSymbolizer>
             <sld:Fill>
-              <sld:CssParameter name="fill">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="fill">#75cff0</sld:CssParameter>
             </sld:Fill>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-width">0.5</sld:CssParameter>
             </sld:Stroke>
           </sld:PolygonSymbolizer>
@@ -110,10 +110,10 @@
           <sld:MaxScaleDenominator>1.25E7</sld:MaxScaleDenominator>
           <sld:PolygonSymbolizer>
             <sld:Fill>
-              <sld:CssParameter name="fill">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="fill">#75cff0</sld:CssParameter>
             </sld:Fill>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-width">0.5</sld:CssParameter>
             </sld:Stroke>
           </sld:PolygonSymbolizer>
@@ -134,10 +134,10 @@
           <sld:MaxScaleDenominator>3000.0</sld:MaxScaleDenominator>
           <sld:PolygonSymbolizer>
             <sld:Fill>
-              <sld:CssParameter name="fill">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="fill">#75cff0</sld:CssParameter>
             </sld:Fill>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-width">0.5</sld:CssParameter>
             </sld:Stroke>
           </sld:PolygonSymbolizer>
@@ -262,10 +262,10 @@
           <sld:MaxScaleDenominator>3000.0</sld:MaxScaleDenominator>
           <sld:PolygonSymbolizer>
             <sld:Fill>
-              <sld:CssParameter name="fill">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="fill">#75cff0</sld:CssParameter>
             </sld:Fill>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-width">0.5</sld:CssParameter>
             </sld:Stroke>
           </sld:PolygonSymbolizer>
@@ -400,10 +400,10 @@
           <sld:MaxScaleDenominator>3000.0</sld:MaxScaleDenominator>
           <sld:PolygonSymbolizer>
             <sld:Fill>
-              <sld:CssParameter name="fill">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="fill">#75cff0</sld:CssParameter>
             </sld:Fill>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
               <sld:CssParameter name="stroke-width">0.5</sld:CssParameter>
             </sld:Stroke>
           </sld:PolygonSymbolizer>
