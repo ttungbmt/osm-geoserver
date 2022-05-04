@@ -9017,16 +9017,16 @@
                 <ogc:PropertyName>class</ogc:PropertyName>
                 <ogc:Literal>highway</ogc:Literal>
               </ogc:PropertyIsEqualTo>
+              <ogc:PropertyIsEqualTo>
+                <ogc:PropertyName>type</ogc:PropertyName>
+                <ogc:Literal>motorway</ogc:Literal>
+              </ogc:PropertyIsEqualTo>
               <ogc:PropertyIsLessThanOrEqualTo>
                 <ogc:Function name="strLength">
                   <ogc:PropertyName>ref</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>11</ogc:Literal>
               </ogc:PropertyIsLessThanOrEqualTo>
-              <ogc:PropertyIsEqualTo>
-                <ogc:PropertyName>type</ogc:PropertyName>
-                <ogc:Literal>motorway</ogc:Literal>
-              </ogc:PropertyIsEqualTo>
             </ogc:And>
           </ogc:Filter>
           <sld:MinScaleDenominator>100000.0</sld:MinScaleDenominator>
@@ -9157,16 +9157,16 @@
                 <ogc:PropertyName>class</ogc:PropertyName>
                 <ogc:Literal>highway</ogc:Literal>
               </ogc:PropertyIsEqualTo>
+              <ogc:PropertyIsEqualTo>
+                <ogc:PropertyName>type</ogc:PropertyName>
+                <ogc:Literal>trunk</ogc:Literal>
+              </ogc:PropertyIsEqualTo>
               <ogc:PropertyIsLessThanOrEqualTo>
                 <ogc:Function name="strLength">
                   <ogc:PropertyName>ref</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>11</ogc:Literal>
               </ogc:PropertyIsLessThanOrEqualTo>
-              <ogc:PropertyIsEqualTo>
-                <ogc:PropertyName>type</ogc:PropertyName>
-                <ogc:Literal>trunk</ogc:Literal>
-              </ogc:PropertyIsEqualTo>
             </ogc:And>
           </ogc:Filter>
           <sld:MinScaleDenominator>100000.0</sld:MinScaleDenominator>
@@ -9297,16 +9297,16 @@
                 <ogc:PropertyName>class</ogc:PropertyName>
                 <ogc:Literal>highway</ogc:Literal>
               </ogc:PropertyIsEqualTo>
+              <ogc:PropertyIsEqualTo>
+                <ogc:PropertyName>type</ogc:PropertyName>
+                <ogc:Literal>primary</ogc:Literal>
+              </ogc:PropertyIsEqualTo>
               <ogc:PropertyIsLessThanOrEqualTo>
                 <ogc:Function name="strLength">
                   <ogc:PropertyName>ref</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>11</ogc:Literal>
               </ogc:PropertyIsLessThanOrEqualTo>
-              <ogc:PropertyIsEqualTo>
-                <ogc:PropertyName>type</ogc:PropertyName>
-                <ogc:Literal>primary</ogc:Literal>
-              </ogc:PropertyIsEqualTo>
             </ogc:And>
           </ogc:Filter>
           <sld:MinScaleDenominator>100000.0</sld:MinScaleDenominator>
@@ -9437,16 +9437,16 @@
                 <ogc:PropertyName>class</ogc:PropertyName>
                 <ogc:Literal>highway</ogc:Literal>
               </ogc:PropertyIsEqualTo>
+              <ogc:PropertyIsEqualTo>
+                <ogc:PropertyName>type</ogc:PropertyName>
+                <ogc:Literal>secondary</ogc:Literal>
+              </ogc:PropertyIsEqualTo>
               <ogc:PropertyIsLessThanOrEqualTo>
                 <ogc:Function name="strLength">
                   <ogc:PropertyName>ref</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>11</ogc:Literal>
               </ogc:PropertyIsLessThanOrEqualTo>
-              <ogc:PropertyIsEqualTo>
-                <ogc:PropertyName>type</ogc:PropertyName>
-                <ogc:Literal>secondary</ogc:Literal>
-              </ogc:PropertyIsEqualTo>
             </ogc:And>
           </ogc:Filter>
           <sld:MinScaleDenominator>100000.0</sld:MinScaleDenominator>
