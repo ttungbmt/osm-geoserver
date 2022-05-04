@@ -8,10 +8,10 @@
           <sld:MaxScaleDenominator>800000.0</sld:MaxScaleDenominator>
           <sld:PolygonSymbolizer>
             <sld:Fill>
-              <sld:CssParameter name="fill">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="fill">#75cff0</sld:CssParameter>
             </sld:Fill>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#aad3df</sld:CssParameter>
+              <sld:CssParameter name="stroke">#75cff0</sld:CssParameter>
             </sld:Stroke>
           </sld:PolygonSymbolizer>
         </sld:Rule>
