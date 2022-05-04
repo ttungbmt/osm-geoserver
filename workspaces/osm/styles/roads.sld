@@ -1333,7 +1333,7 @@
           <sld:MaxScaleDenominator>100000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#8f8f8f</sld:CssParameter>
+              <sld:CssParameter name="stroke">#bfbfbf</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Categorize">
@@ -1381,7 +1381,7 @@
           <sld:MaxScaleDenominator>200000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#8f8f8f</sld:CssParameter>
+              <sld:CssParameter name="stroke">#bfbfbf</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Categorize">
@@ -1652,7 +1652,7 @@
           <sld:MaxScaleDenominator>50000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#bfbfbf</sld:CssParameter>
+              <sld:CssParameter name="stroke">#FFFFFF</sld:CssParameter>
               <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">0.4</sld:CssParameter>
@@ -1675,7 +1675,7 @@
           <sld:MaxScaleDenominator>50000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#bfbfbf</sld:CssParameter>
+              <sld:CssParameter name="stroke">#FFFFFF</sld:CssParameter>
               <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
             </sld:Stroke>
@@ -1708,6 +1708,7 @@
           <sld:LineSymbolizer>
             <sld:Stroke>
               <sld:CssParameter name="stroke">#bfbfbf</sld:CssParameter>
+              <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Categorize">
@@ -1758,6 +1759,7 @@
           <sld:MaxScaleDenominator>20000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
+              <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Categorize">
@@ -1799,6 +1801,7 @@
           <sld:LineSymbolizer>
             <sld:Stroke>
               <sld:CssParameter name="stroke">#bfbfbf</sld:CssParameter>
+              <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Categorize">
@@ -1886,6 +1889,7 @@
           <sld:LineSymbolizer>
             <sld:Stroke>
               <sld:CssParameter name="stroke">#bfbfbf</sld:CssParameter>
+              <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Categorize">
@@ -1937,6 +1941,7 @@
           <sld:LineSymbolizer>
             <sld:Stroke>
               <sld:CssParameter name="stroke">#bfbfbf</sld:CssParameter>
+              <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Categorize">
@@ -1972,6 +1977,7 @@
           <sld:LineSymbolizer>
             <sld:Stroke>
               <sld:CssParameter name="stroke">#999999</sld:CssParameter>
+              <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
                 <ogc:Function name="Categorize">
@@ -12764,7 +12770,7 @@
           <sld:MaxScaleDenominator>20000.0</sld:MaxScaleDenominator>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#ededed</sld:CssParameter>
+              <sld:CssParameter name="stroke">#FFFFFF</sld:CssParameter>
               <sld:CssParameter name="stroke-linecap">round</sld:CssParameter>
               <sld:CssParameter name="stroke-linejoin">round</sld:CssParameter>
               <sld:CssParameter name="stroke-width">
